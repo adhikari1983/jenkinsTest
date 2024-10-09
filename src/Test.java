@@ -3,6 +3,7 @@ public class Test {
         for (int i = 0; i < 5; i++) {
             System.out.println("Running the trigger-333 5 times in the jenkins server..");
             System.out.println("Running on my local machine jenkins server ");
+            System.out.println("Execution is successful");
 
         }
     }
